@@ -1,3 +1,6 @@
+Had to add it here, since no where else was working well
+===========================
+
 Heroku Buildpack - Tesseract
 ===========================
 Added the libraries to use Tesseract 3.02 on Heroku
